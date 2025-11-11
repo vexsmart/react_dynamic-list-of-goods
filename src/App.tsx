@@ -5,6 +5,7 @@ import { GoodsList } from './GoodsList';
 import { Good } from './types/Good';
 
 import { getAll, get5First, getRedGoods } from './api/goods';
+
 // or
 // import * as goodsAPI from './api/goods';
 
